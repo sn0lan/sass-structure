@@ -4,4 +4,6 @@ This is my starting point for SASS.
 
 ##What's here
 
->test
+1. Modular layout
+2. bourbon
+3. skeleton
